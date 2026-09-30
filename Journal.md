@@ -8,3 +8,5 @@ We had a fruitful interview preparation and came up with some good questions, wh
 <img width="1233" height="587" alt="image" src="https://github.com/user-attachments/assets/c3eaba9e-bad3-48dd-a20e-d122eb307a0a" />
 
 In conclusion, this week was productive and gave us a good foundation for the rest of the semester. I also find the dynamic of the team to be super fun so I'm looking forward to continuing onwards with my teammates.
+
+# Week 3
