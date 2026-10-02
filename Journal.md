@@ -17,3 +17,9 @@ with a clearer perspective on our project direction. The link to the interview n
 We created the first iteration of our [living learning contract](https://docs.google.com/document/d/1F_2di_S4X9ppsrIJZf5SswDKPzK2tYX0rozQQe47Ahg/edit?usp=sharing), which will probably change. My objectives so far
 are to refine my project management skills and get more UX/UI design experience. At the end of the semester, I'd like to be able to say i refined my leadership skills and have a cool project to add to my
 portfolio.
+
+# Week 4
+
+We have now exchanged our ideas for what the software should look/feel like.
+
+I was tasked with working on the user flow.
