@@ -37,6 +37,21 @@ I was tasked with working on the user flow.
 
 It is not extremely detailed yet, and doesn't highlight the main features or games that will be on the app, but it shows the main user loop. A user would sign in, pick a game they would like to work on, and this would open a file that they can work on by creating and linking nodes of their choice. They can modify the nodes and test iteratively, going back and forth between simulating the game and working on it.
 
+# Week 5
+
+Our team worked on developing our visual style and creating a more concrete prototype during the reading week. We met and spoke about different directions for the interface visuals, and towing the line between fun and overly distracting/inaccessible was difficult. The conversation brought me to thinking about my personal visual references to fun design: 2000s video game interfaces, especially Nintendo. This proved to be interesting for the whole team, because we all grew up interested in similar gaming consoles. Moreover, our audience is students around our age range, which means they are more likely to understand these design references. Because of that, we decided that we would push our visuals to look similar to game interfaces of that time, as we perceive them to be tried and true examples of a fun and accessible interface.
+
+This brought us to this updated visual style, with an associated moodboard:
+
+<img width="1076" height="520" alt="image" src="https://github.com/user-attachments/assets/a22cfabd-68a1-471a-9d9a-5ddc230694bf" /> <img width="397" height="614" alt="image" src="https://github.com/user-attachments/assets/2f7b7f93-4ab2-46dd-9146-0194f65b0eab" />
+
+We met with Pippin over the reading week and he approved of the visual style but pushed us to think deeper about the features. We extracted some reading material from him to help guide our vision: Game Feel by Steve Swink, Game Design Vocabulary by Anna Anthropy and Naomi Clark, and The Art of Game Design: A Book of Lenses by Jesse Schell. I already skimmed through The Art of Game Design (I came up with the node categorization through the elemental tetrad), but there is clearly more to explore and read about. Pippin also recommended that we look at other game making software like Godot, Phaser, Scratch or Game Maker to copy their categorization of modifiable features in games.
+
+# Week 6
+
+We are meeting Pippin this week, which means that we have certain deliverables to prepare. We sought to broaden our prototyping to create something that can communicate our visual design effectively. Our work was divided in two: a [video prototype](https://www.youtube.com/watch?v=kcf4vYF23dc) and an [interactive one](https://www.figma.com/proto/eNdm7fk9ar32N95lCA35Kd/CART470-VISUAL-DESIGNS?node-id=140-117&p=f&t=wucYeOPCafBZB2Hg-1&scaling=contain&content-scaling=fixed&page-id=121%3A289&starting-point-node-id=140%3A117&show-proto-sidebar=1). 
+
+The video prototype was created to communicate the essence of the software, and the interactive interface to familiarize users to its flow. As we met with Pippin, we not agreed to move towards a more technical direction of the product, and create a coded prototype that would simulate the game engine itself. We will most likely import a Pong game code, which we will modify by surfacing variables (velocity, speed, size) to the interface by using sliders. This will allow us to see if this concept is fun to play with, or if it needs to be improved.
 
 
 
