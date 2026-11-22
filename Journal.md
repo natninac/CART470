@@ -53,5 +53,23 @@ We are meeting Pippin this week, which means that we have certain deliverables t
 
 The video prototype was created to communicate the essence of the software, and the interactive interface to familiarize users to its flow. As we met with Pippin, we not agreed to move towards a more technical direction of the product, and create a coded prototype that would simulate the game engine itself. We will most likely import a Pong game code, which we will modify by surfacing variables (velocity, speed, size) to the interface by using sliders. This will allow us to see if this concept is fun to play with, or if it needs to be improved.
 
+# Week 7
 
+This week, we presented our work to the class. It was fun to also see what other teams are working on and struggling with. It seems like people are having a wide variety of issues, which made me feel less isolated with the things my teams has been dealing with. It also made me grateful for our client because he's been great to work with!
+
+I had been trying to work on my documentation skills, so I worked a lot on the presentation design with Hanif. I also covered the initial research content during the presentation because that's the part I was most involved with. Designing the slides made me think about how to make our process readable for someone outside the project to see its history and be engaged. I had the idea of starting with the video prototype as a "hook", which a few people seemed to have liked!
+
+# Week 8
+
+This week, we meet Pippin again, and our work seems to have pivoted once again. Upon talking, Pippin let us know that he would rather see many explorations/prototypes instead of us working on deepening a single one. This made us look forward to trying more ideas out.
+
+At first the pivot felt disorienting, since we had already put time into the techno-zen wii aesthetic. But his feedback makes sense for a tool meant to teach game design. If the software is about tweaking and iterating on simple games, it's fitting that our own process works the same way: more rough and explorative than polished early. It also connects to his earlier point that our design might be too clean and not invite enough breaking or exploring.
+
+For the next phase, we plan to do a few small prototypes testing features, visuals and experience. Pippin seems to be interested in using language as a feature, I want to explore NLP (natural language processing) tools, which I have already been working with in another class.
+
+# Week 9
+
+We all met this week to discuss progress on our different prototypes. I have been working on more conceptual ideas about how to use NLPs with our game.
+
+We met with Sabine, who helped us realize that we might want to reconsider our communication habits with Pippin. The past few weeks, we had been updating Pippin on the go, which might not have been necessary. We will be holding off on doing that, and instead presenting our ideas during our next client meeting next week.
 
