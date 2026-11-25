@@ -73,3 +73,8 @@ We all met this week to discuss progress on our different prototypes. I have bee
 
 We met with Sabine, who helped us realize that we might want to reconsider our communication habits with Pippin. The past few weeks, we had been updating Pippin on the go, which might not have been necessary. We will be holding off on doing that, and instead presenting our ideas during our next client meeting next week.
 
+# Week 10
+
+This week, we got to meet Pippin and present him some of our work. We carried on with our individual prototypes. Different concepts were explored: my teammates worked on different outputs, visual styles and experiences. I specifically worked on getting a working NLP interface. I used compromise.js and transformer.js to create a word clustering prototype. I think this could be implemented into one of our already existing prototypes to control sliders through language. Of course, this is still quite tentative and would need quite a bit of work to be made usable. 
+<img width="1095" height="688" alt="image" src="https://github.com/user-attachments/assets/a2732737-56ee-48e1-b34d-b49b337fd6fc" />
+
